@@ -1,0 +1,55 @@
+body {
+  background-image: url('background-01.png');
+  background-size: 700px 500px;
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+body .sign-in {
+  margin-top: 10%;
+  margin-left: 25%;
+  margin-right: 25%;
+ border: 1px solid black;
+ background-color: white;
+}
+
+body .sign-in-container{
+  width: 50%;
+}
+
+body .form-signin {
+  margin: 10px 0;
+}
+
+.sign-in .logo .thumbnail {
+  margin-left: 10%;
+  border: 0;
+  margin-bottom: 0;
+}
+
+#inputEmail, #inputPassword {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+button[type="submit"] {
+  margin-bottom: 10px;
+}
+
+.grid_images {
+  margin-left: 20%;
+  margin-top: 20px;
+}
+
+.grid_images .thumbnail {
+  border: 0;
+}
+
+.truck {
+  margin-top: 20px;
+}
+
+.logo {
+  margin-top: 10px;
+  margin-left: 25%;
+  margin-bottom: 10px;
+}
